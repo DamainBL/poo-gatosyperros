@@ -16,10 +16,10 @@ Este archivo define una clase llamada `perro`, la cual contiene atributos como n
 
 A continuación se muestran capturas de pantalla de la ejecución de ambos programas:
 
-### ✅ Ejemplo de uso de `Persona`
+### ✅ Ejemplo de uso de `gato`
 
 ![Ejecución de clase gato](https://github.com/DamainBL/poo-gatosyperros/blob/main/imagen/gato1.png?raw=true)
 
-### ✅ Ejemplo de uso de `Calculadora`
+### ✅ Ejemplo de uso de `perro`
 
 ![Ejecución de clase perro](https://github.com/DamainBL/poo-gatosyperros/blob/main/imagen/perro1.PNG?raw=true)
