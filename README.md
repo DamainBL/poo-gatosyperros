@@ -18,7 +18,7 @@ A continuación se muestran capturas de pantalla de la ejecución de ambos progr
 
 ### ✅ Ejemplo de uso de `Persona`
 
-![Ejecución de clase Persona](screenshots/persona_demo.png)
+![Ejecución de clase Persona](https://github.com/DamainBL/poo-gatosyperros/blob/main/imagen/gato1.png?raw=true)
 
 ### ✅ Ejemplo de uso de `Calculadora`
 
