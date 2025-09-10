@@ -12,7 +12,7 @@ Este archivo define una clase llamada `gato`, la cual contiene atributos como no
 
 Este archivo define una clase llamada `perro`, la cual contiene atributos como nombre, color, raza color de ojos  y métodos para mostrar la informacion del perro brindada por el usuario.
 
-## 📸 Ejecuciones del programa
+## Ejecuciones del programa
 
 A continuación se muestran capturas de pantalla de la ejecución de ambos programas:
 
