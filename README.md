@@ -22,4 +22,4 @@ A continuación se muestran capturas de pantalla de la ejecución de ambos progr
 
 ### ✅ Ejemplo de uso de `Calculadora`
 
-![Ejecución de clase perro](https://github.com/DamainBL/poo-gatosyperros/blob/main/imagen/perro1.png?raw=true)
+![Ejecución de clase perro](https://github.com/DamainBL/poo-gatosyperros/blob/main/imagen/perro1.PNG?raw=true)
